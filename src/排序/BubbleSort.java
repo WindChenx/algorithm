@@ -3,6 +3,7 @@ package 排序;
 import java.util.Arrays;
 
 /**
+ * 冒泡
  * https://baijiahao.baidu.com/s?id=1643890238963997356&wfr=spider&for=pc
  */
 public class BubbleSort {
